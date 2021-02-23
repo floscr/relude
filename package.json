@@ -35,14 +35,12 @@
     "@glennsl/bs-jest": "^0.5.1",
     "bs-bastet": "^1.2.5",
     "bs-platform": "^7.2.2",
-    "docsify-cli": "~4.4.0"
+    "docsify-cli": "~4.4.0",
+    "bisect_ppx": "^2.4.1"
   },
   "peerDependencies": {
     "bs-bastet": "^1.2.5",
     "bs-platform": "^7.2.2"
-  },
-  "dependencies": {
-    "bisect_ppx": "^2.4.1"
   },
   "jest": {
     "verbose": false,
